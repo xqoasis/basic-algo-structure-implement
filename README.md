@@ -1,2 +1,2 @@
 # basic-algo-structure-implement
-Preparation for interview
+Personal implement repositery.
