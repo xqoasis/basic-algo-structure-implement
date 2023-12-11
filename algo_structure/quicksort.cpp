@@ -18,6 +18,7 @@ int partition(vector<int> &nums, int lo, int hi){
         if (i >= j){
           break;
         }
+        // i >= j, a[j] <= pivot
         // nums[i] > pivot, nums[j] <= pivot
         swap(nums[i], nums[j]);
     }
